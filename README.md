@@ -1,1 +1,1 @@
-# odin-cookbook
+# code for Odin Project cookbook assignment
